@@ -1,0 +1,2 @@
+Min crossentropy:			1.5147433280944824
+Corresponing accuracy:		0.4848484992980957

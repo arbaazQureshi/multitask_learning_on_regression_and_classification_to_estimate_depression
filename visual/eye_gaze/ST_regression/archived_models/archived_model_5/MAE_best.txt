@@ -1,0 +1,3 @@
+Min MAE:			5.269183158874512
+Corresponing MSE:		52.49896240234375
+Epoch number:		115

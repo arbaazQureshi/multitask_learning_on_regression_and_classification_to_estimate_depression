@@ -1,0 +1,3 @@
+Min MSE:			45.5754508972168
+Corresponing MAE:		5.382532596588135
+Epoch number:		30

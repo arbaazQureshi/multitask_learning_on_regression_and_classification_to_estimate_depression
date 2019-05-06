@@ -1,0 +1,3 @@
+Min MAE:			5.710646152496338
+Corresponing MSE:		57.231990814208984
+Epoch number:		198

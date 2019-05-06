@@ -1,0 +1,6 @@
+Min crossentropy:			1.3148573637008667
+Corresponing MAE:		5.378907203674316
+Corresponing MSE:		55.16410827636719
+Corresponing accuracy:		0.4848484992980957
+Corresponing training crossentropy:		1.1419923305511475
+Epoch number:		76

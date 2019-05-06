@@ -1,0 +1,3 @@
+Min MSE:			49.258697509765625
+Corresponing MAE:		5.567016124725342
+Epoch number:		194

@@ -1,0 +1,3 @@
+Min MAE:			4.659899711608887
+Corresponing MSE:		50.70956802368164
+Epoch number:		122

@@ -1,0 +1,3 @@
+Min crossentropy:			1.4221667051315308
+Corresponing accuracy:		0.4848484992980957
+Epoch number:		50

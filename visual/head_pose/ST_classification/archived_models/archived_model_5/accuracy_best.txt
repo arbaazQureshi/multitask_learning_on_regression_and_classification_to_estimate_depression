@@ -1,0 +1,3 @@
+Max accuracy:			0.4848484992980957
+Corresponing crossentropy:		1.407212257385254
+Epoch number:		11

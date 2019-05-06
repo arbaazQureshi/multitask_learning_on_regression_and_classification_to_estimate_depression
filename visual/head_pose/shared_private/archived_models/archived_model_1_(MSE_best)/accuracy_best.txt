@@ -1,0 +1,5 @@
+Max accuracy:			0.4848484992980957
+Corresponing MAE:		7.3370890617370605
+Corresponing MSE:		96.19343566894531
+Corresponing crossentropy:		1.5231282711029053
+Epoch number:		1

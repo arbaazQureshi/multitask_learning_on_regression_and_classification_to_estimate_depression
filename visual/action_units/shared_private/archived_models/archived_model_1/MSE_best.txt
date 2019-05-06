@@ -1,0 +1,4 @@
+Min MSE:			42.09617614746094
+Corresponing MAE:		5.298240661621094
+Corresponing crossentropy:		1.554595947265625
+Corresponing accuracy:		0.39393940567970276

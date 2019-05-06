@@ -1,0 +1,3 @@
+Min MSE:			53.737735748291016
+Corresponing MAE:		5.412273406982422
+Epoch number:		140

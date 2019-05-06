@@ -1,0 +1,4 @@
+Max accuracy:			0.4848484992980957
+Corresponing MAE:		6.533741474151611
+Corresponing MSE:		78.65845489501953
+Corresponing crossentropy:		1.4115315675735474

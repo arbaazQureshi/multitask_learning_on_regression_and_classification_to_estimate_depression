@@ -1,0 +1,5 @@
+Min MSE:			51.2622184753418
+Corresponing MAE:		5.742058277130127
+Corresponing crossentropy:		1.3853529691696167
+Corresponing accuracy:		0.4848484992980957
+Epoch number:		36

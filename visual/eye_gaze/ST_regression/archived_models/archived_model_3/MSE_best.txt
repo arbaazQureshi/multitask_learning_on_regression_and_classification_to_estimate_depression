@@ -1,0 +1,3 @@
+Min MSE:			45.7769660949707
+Corresponing MAE:		5.294534206390381
+Epoch number:		27

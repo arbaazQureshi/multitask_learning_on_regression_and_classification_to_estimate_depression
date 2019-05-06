@@ -1,0 +1,5 @@
+Min MSE:			47.847354888916016
+Corresponing MAE:		5.49334716796875
+Corresponing training MSE:		20.536767959594727
+Corresponing training MAE:		3.474046468734741
+Epoch number:		34

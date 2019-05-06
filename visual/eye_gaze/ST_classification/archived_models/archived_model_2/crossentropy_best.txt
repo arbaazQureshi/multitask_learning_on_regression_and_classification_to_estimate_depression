@@ -1,0 +1,4 @@
+Min crossentropy:			1.3640683889389038
+Corresponing accuracy:		0.5151515007019043
+Corresponing training crossentropy:		1.380604863166809
+Epoch number:		5

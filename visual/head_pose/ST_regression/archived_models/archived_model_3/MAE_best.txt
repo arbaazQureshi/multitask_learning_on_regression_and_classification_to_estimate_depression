@@ -1,0 +1,3 @@
+Min MAE:			5.764801979064941
+Corresponing MSE:		52.06428527832031
+Epoch number:		42
